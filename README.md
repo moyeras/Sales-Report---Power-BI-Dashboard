@@ -3,7 +3,9 @@
 ## Overview
 
 -This project showcases two interactive Power BI dashboards that provide an overview of sales data, including KPIs, customer details, product categories, and more. The dashboards visualize important sales metrics to aid in decision-making.
+
 -Link to dataset:https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
+
 -File name is AdventureWorksDW2019.bak
 
 ---
