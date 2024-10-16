@@ -1,4 +1,7 @@
 # Sales Report - Power BI Dashboard
+![Sales_Report_PowerBIpng](https://github.com/user-attachments/assets/29645249-558c-4ddd-9c36-7278a37e8488)
+![Sales_Report2_PowerBI](https://github.com/user-attachments/assets/5c61aa72-6a14-4be1-b4f8-38ff1109714d)
+
 
 ## Overview
 
